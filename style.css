@@ -1,0 +1,20 @@
+.container-fluid {
+height:800px;
+float: left;
+margin: 0;
+background-color: #2F4F4F;
+}
+.btn-group{
+	width: 100%;
+}
+.display-1 {
+margin-top: 200px;
+margin-left: 80px;
+margin-right:560px;
+
+}
+.info {
+margin-left: 80px;
+margin-right: 560px;
+
+}

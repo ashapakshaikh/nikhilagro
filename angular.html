@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular-route.js"></script>
+
+<body ng-app="myApp">
+
+<p><a href="#/!">Home</a></p>
+
+<a href="#!farmarzone">farmarzone</a>
+<a href="#!gallery">gallery</a>
+<a href="#!ownerprofile">ownerprofile</a>
+
+<div ng-view></div>
+
+<script>
+var app = angular.module("myApp", []);
+app.config(function($routeProvider) {
+    $routeProvider
+    .when("/", {
+        templateUrl : "Home.htm"
+    })
+    .when("farmarzone", {
+        templateUrl : "farmarzone.htm"
+    })
+    .when("gallery", {
+        templateUrl : "gallery.htm"
+    })
+    .when("ownerprofile", {
+        templateUrl : "ownerprofile.htm"
+    });
+});
+</script>
+
+<p>Click on the links to navigate to "red.htm", "green.htm", "blue.htm", or back to "main.htm"</p>
+</body>
+</html>

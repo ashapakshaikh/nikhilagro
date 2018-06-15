@@ -1,0 +1,368 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"i",
+				"input\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"bt",
+				"btn-group"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"bo",
+				"border-bottom"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"background",
+				"background-origin"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"m",
+				"myApp"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"stude",
+				"studentobject"
+			],
+			[
+				"student",
+				"studentContl"
+			],
+			[
+				"ang",
+				"angular"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"coun",
+				"countries"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ashpak/Desktop/gitSignpage/index.html",
+		"/home/ashpak/Desktop/gitSignpage/style.css",
+		"/home/ashpak/Desktop/gitSignpage/git.html",
+		"/home/ashpak/Desktop/gitSignpage/cs1.css",
+		"/home/ashpak/na.html",
+		"/home/ashpak/Desktop/project/script.js",
+		"/home/ashpak/Desktop/gitSignpage/github.html",
+		"/home/ashpak/Desktop/gitSignpage/github-mark.png",
+		"/home/ashpak/Desktop/web page/views/side-bar/index.html",
+		"/home/ashpak/Desktop/design.html",
+		"/home/ashpak/Desktop/web page/views/list items/index.html",
+		"/home/ashpak/Desktop/web page/views/side-bar/style.css",
+		"/home/ashpak/Desktop/style1.css",
+		"/home/ashpak/Desktop/project/style.css",
+		"/home/ashpak/Desktop/project/index.html",
+		"/media/ashpak/New Volume/AJS/table.html",
+		"/home/ashpak/Desktop/web page/demo",
+		"/home/ashpak/Desktop/web page/index.js",
+		"/home/ashpak/Desktop/web page/view/home.html",
+		"/home/ashpak/Desktop/web page/views/home.html",
+		"/media/ashpak/New Volume/AJS/server.js",
+		"/media/ashpak/New Volume/AJS/second.html",
+		"/media/ashpak/New Volume/AJS/cont.html",
+		"/media/ashpak/New Volume/AJS/first1.html",
+		"/media/ashpak/New Volume/AJS/first.<html>",
+		"/media/ashpak/New Volume/AJS/demo.html",
+		"/media/ashpak/New Volume/AJS/controllers.html",
+		"/media/ashpak/New Volume/AJS/diective.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Home.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 175.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
